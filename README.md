@@ -22,7 +22,7 @@ Note that this is only a string of characters - it is *not* the contents that ca
 
 ## Installing a package
 
-To import JSON files we need to activate a **package** called `jsonlite`. Packages [are](https://www.statmethods.net/interface/packages.html:
+To import JSON files we need to activate a **package** called `jsonlite`. Packages [are](https://www.statmethods.net/interface/packages.html)
 
 > "collections of R functions, data, and compiled code in a well-defined format." 
 In other languages like JavaScript and Python, this would be called a library. But in R, confusingly, a *library* is something else: "the directory where packages are stored".
