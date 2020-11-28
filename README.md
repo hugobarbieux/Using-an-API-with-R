@@ -1,4 +1,4 @@
-# Using an API in R
+# Using an API in R (author : Paul Bradshaw)
 
 An API is one way of getting data from a web resource. Typically you get data by forming a URL - the URL is basically your 'question' (**query**), and the webpage that is delivered to you (the **endpoint**) contains the 'response' with the data, often in JSON format.
 
